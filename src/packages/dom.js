@@ -69,8 +69,8 @@ const DOMDisplayWeather = (weather) => {
       <div class="right">
         <span>LON: ${weather.lon}</span>
         <span>LAT: ${weather.lat}</span>
-        <span>PRESSURE: ${weather.pressure}</span>
-        <span>HUMIDITY: ${weather.humidity}</span>
+        <span>TEKANAN: ${weather.pressure}</span>
+        <span>KELEMBAPAN: ${weather.humidity}</span>
       </div>
       <div class="left">
         <span>MIN: ${weather.min}</span>

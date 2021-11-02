@@ -11,7 +11,7 @@ const DOMDismisMessage = () => {
 const displayForm = () => {
   const form = `
   <form id="form">
-    <h2>Find the weather of your city!!</h2>
+    <h2>Cek cuaca kota anda</h2>
     <div class="form-group">
       <input type="text" placeholder="Enter Location" id="location">
       <input type="submit" value="Search">
